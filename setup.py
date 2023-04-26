@@ -9,7 +9,7 @@ config= {
     'url': '',
     'author_email': 'nelson83mdq@gmail.com',
     'version': '0.1',
-    'install_requires': ['nose'],
+    'install_requires': ['pyttsx3'],
     'package': ['TTS_'],
     'script': [],
     'name': 'TTS_'
